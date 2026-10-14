@@ -116,3 +116,69 @@ Based on the analysis, retailers could:
 - Business insight generation
 - Analytical storytelling and recommendations
 
+
+## 🚀 How to Run the Project
+
+### Option 1: Google Colab
+
+1. Open the Jupyter Notebook in this repository.
+2. Download the notebook or open it in Google Colab.
+3. Upload the CSV dataset if required.
+4. Update the dataset path in the notebook.
+5. Run the cells sequentially to reproduce the analysis.
+
+### Option 2: Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Kamal-Damani/Diwali_Customer_Analytics_Python.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Diwali_Customer_Analytics_Python
+```
+
+Install the required libraries:
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open `Diwali_Sales_analysis_Pandas.ipynb` and execute the cells.
+
+## 📁 Project Files
+
+- **Dataset:** Diwali sales transaction data in CSV format.
+- **Jupyter Notebook:** Python analysis, data processing, and visualizations.
+- **Presentation:** Summary of the project's findings and business implications.
+
+## 🔮 Future Improvements
+
+- Build an interactive sales dashboard using Power BI.
+- Perform customer segmentation using RFM analysis.
+- Analyse average order value and repeat purchasing behaviour.
+- Compare revenue with profit and discount patterns, if those fields are available.
+- Develop a sales forecasting model if suitable time-series data becomes available.
+
+## 👨‍💻 Author
+
+**Kamal Damani**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
+
+GitHub: [Kamal-Damani](https://github.com/Kamal-Damani)
+
+LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/kamal-damani-b337b8264/)
+
+---
+
+⭐ If you find this project useful, feel free to explore the notebook and share your feedback.
